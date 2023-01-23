@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaporcorp&label=Profile%20views&color=0e75b6&style=flat" alt="vaporcorp" /> </p>
 
-- 🌱 I’m currently learning **React, ReactNative, TypeScript, Python, C++, C#, Angular, Node.JS, Vue.JS, Bootstrap, Tailwind**
+- 🌱 I’m currently learning **Discord.JS, React, TypeScript, Python, Node.JS, Vue.JS, Bootstrap, Tailwind**
 
 - 📫 How to reach me **bonjour@louis-petit.fr**
 
