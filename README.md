@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vapor (A.K.A. Louis)</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate fullstack developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaporcorp&label=Profile%20views&color=0e75b6&style=plastic" alt="vaporcorp" /> </p>
 
