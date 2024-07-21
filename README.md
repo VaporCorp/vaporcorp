@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **a CMS**
 
-- 💬 Ask me about **react, vue, typescript or react native**
+- 💬 Ask me about **react, vue or typescript**
 
 - 📫 How to reach me **bonjour@louis-petit.fr**
 
