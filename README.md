@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaporcorp&label=Profile%20views&color=0e75b6&style=plastic" alt="vaporcorp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thatboyvapor" target="blank"><img src="https://img.shields.io/twitter/follow/thatboyvapor?logo=twitter&style=for-the-badge" alt="thatboyvapor" /></a> </p>
-
 - 🔭 I’m currently working on **personnal projects**
 
 - 🌱 I’m currently learning **Kubernetes, Python, C++**
