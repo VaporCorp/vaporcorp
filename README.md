@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://codepen.io/vaporcorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vaporcorp" height="30" width="40" /></a>
 <a href="https://dev.to/vaporcorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaporcorp" height="30" width="40" /></a>
-<a href="https://twitter.com/thatboyvapor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatboyvapor" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18017969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18017969" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vaporcorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaporcorp" height="30" width="40" /></a>
 </p>
